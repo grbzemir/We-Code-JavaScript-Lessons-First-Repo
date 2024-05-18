@@ -19,6 +19,29 @@ borcunuz: ${(2 + 3) * 10} TL
 gunun saat bilgisi : ${new Date().getHours()}
 
 kisa isminiz: ${username[0]}.
+
+`
+console.log(info)
+
+let username1 = "emir"
+const DOMAIN1 = "emirabigf1.org"
+
+let email1 = username1 + "@" + DOMAIN1
+
+let bilgisi = `	
+Hosgeldiniz ${username1} sitemize..
+mail adresiniz: ${email1}
+
+mail adresinin uzunlugu: ${email1.length}
+borcunuzz: ${(2 + 4) * 10} TL
+gunun saat bilgisi : ${new Date().getHours()}
+kisa isminiz: ${username1[0]}.
+
+
+
 `
 
-console.log(info)
+
+console.log(bilgisi);
+
+
