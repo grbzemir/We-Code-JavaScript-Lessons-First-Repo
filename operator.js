@@ -39,3 +39,7 @@ console.log(price > 0 || user != "guest")
 user = "guest"
 price = 1
 console.log(price > 0 && !user == "guest")
+
+// ? : ternary
+
+// console.log(user === "guest" ? "Hello Guest" : "Hello User")
