@@ -18,3 +18,7 @@ function clickEvent() {
     counterDOM.innerHTML = counter
 
 }
+
+
+
+// Path: egzersiz3.js
