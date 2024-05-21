@@ -22,3 +22,7 @@ function clickEvent() {
 
 
 // Path: egzersiz3.js
+
+
+
+//22.Güns
