@@ -14,3 +14,5 @@ while (!userName) { //Bos olana kadar calıs
     userName = prompt("Kullanici Adini Giriniz: ")
     console.log(userName)
 }
+
+
