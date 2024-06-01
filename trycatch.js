@@ -17,4 +17,6 @@ catch (error) {
 console.log("Hata yönetimi düzgün calisiyor mu?")
 
 let info = "kodluyoruz"
-console.log(info)   
+console.log(info)
+
+

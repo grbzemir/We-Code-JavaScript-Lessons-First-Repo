@@ -22,4 +22,6 @@ fetch("https://jsonplaceholder.typicode.com/posts").then(
     })
 })
 
+//Örnek
+
 //Fetch API, modern web tarayıcılarında bulunan bir JavaScript arayüzüdür. Fetch API, web sayfasından kaynak almak için kullanılan XMLHttpRequest (XHR) gibi diğer yöntemlerin yerini almaya başladı. Basit bir kullanıma sahiptir ve Promise tabanlıdır
