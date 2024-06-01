@@ -46,3 +46,4 @@ console.log(score1, score2, otherScore)
 let copyOfScore = [...score]
 console.log(copyOfScore)
 
+//örnek
