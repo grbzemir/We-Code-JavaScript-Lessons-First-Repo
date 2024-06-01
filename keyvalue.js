@@ -62,3 +62,4 @@ let setting = {
 
 
 
+//örnek
